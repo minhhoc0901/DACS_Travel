@@ -1,0 +1,189 @@
+/* src/styles/itineraryCSS/ItineraryDetail.css */
+.itinerary-detail {
+    padding: 0;
+  }
+  
+  .sub-header {
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 20px;
+  }
+  
+  .back-btn {
+    background-color: white;
+    border: 1px solid #ddd;
+    color: #333;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+  
+  .sub-header .title {
+    flex: 1;
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .sub-header span {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .summary {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+  .summary h3 {
+    font-size: 22px;
+    color: #333;
+    margin: 0 0 10px;
+  }
+  
+  .summary-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .summary-details p {
+    font-size: 16px;
+    color: #666;
+    margin: 0;
+    flex: 1 1 45%;
+  }
+  
+  .actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .edit-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .delete-btn {
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .share-btn {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    color: #333;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .map-placeholder {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 0;
+  }
+  
+  .map-placeholder p {
+    font-size: 16px;
+    color: #666;
+    margin: 0;
+  }
+  
+  .timeline-section {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+  .timeline-section h3 {
+    font-size: 20px;
+    color: #333;
+    margin: 0 0 20px;
+  }
+  
+  .day-section {
+    margin-bottom: 20px;
+  }
+  
+  .day-header {
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+  }
+  
+  .day-header h4 {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .timeline {
+    position: relative;
+    padding-left: 30px;
+  }
+  
+  .timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+  }
+  
+  .timeline-dot {
+    width: 12px;
+    height: 12px;
+    background-color: #3498db;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 5px;
+  }
+  
+  .timeline-line {
+    width: 2px;
+    background-color: #ddd;
+    position: absolute;
+    left: 5px;
+    top: 20px;
+    bottom: -20px;
+  }
+  
+  .timeline-content h4 {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .timeline-content p {
+    font-size: 14px;
+    color: #333;
+    margin: 5px 0;
+  }
+  
+  .timeline-content .description {
+    font-size: 12px;
+    color: #666;
+    margin: 5px 0;
+  }

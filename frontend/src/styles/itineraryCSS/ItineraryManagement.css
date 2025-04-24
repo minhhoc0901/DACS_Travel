@@ -1,0 +1,358 @@
+/* src/styles/ItineraryManagement.css
+.itinerary-management {
+    padding: 0;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3498db;
+    color: white;
+    height: 60px;
+    padding: 0 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .login-btn {
+    background-color: white;
+    color: #3498db;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 28px;
+    color: #333;
+    margin: 10px 0;
+  }
+  
+  .dashboard {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .dashboard h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .create-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .filter-section {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0;
+  }
+  
+  .filter-section span {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .filter-section select {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    color: #666;
+  }
+  
+  .itinerary-list {
+    margin: 10px 0;
+  }
+  
+  .itinerary-item {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+  }
+  
+  .itinerary-item h3 {
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .itinerary-item p {
+    font-size: 14px;
+    color: #666;
+    margin: 5px 0;
+  }
+  
+  .actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .view-btn, .edit-btn {
+    background-color: #e5f7ff;
+    color: #3498db;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .delete-btn {
+    background-color: #ffeeee;
+    color: #e74c3c;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  .divider {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 10px 0;
+  }
+  
+  .create-itinerary {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .create-itinerary h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin: 0 0 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .date-group {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .date-group div {
+    flex: 1;
+  }
+  
+  .continue-btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+  } */
+
+
+  /* src/styles/itineraryCSS/ItineraryManagement.css */
+.itinerary-management {
+  padding: 0;
+}
+
+.title {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin: 10px 0;
+}
+
+.dashboard {
+  background-color: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.dashboard h3 {
+  margin: 0;
+  font-size: 20px;
+  color: #333;
+}
+
+.create-btn {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.filter-section {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px 0;
+}
+
+.filter-section span {
+  font-size: 16px;
+  color: #333;
+}
+
+.filter-section select {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  color: #666;
+}
+
+.itinerary-list {
+  margin: 10px 0;
+}
+
+.itinerary-item {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+}
+
+.itinerary-item h3 {
+  font-size: 18px;
+  color: #333;
+  margin: 0;
+}
+
+.itinerary-item p {
+  font-size: 14px;
+  color: #666;
+  margin: 5px 0;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.view-btn, .edit-btn {
+  background-color: #e5f7ff;
+  color: #3498db;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.delete-btn {
+  background-color: #ffeeee;
+  color: #e74c3c;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 10px 0;
+}
+
+.create-itinerary {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.create-itinerary h2 {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  margin: 0 0 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.form-group input {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.date-group {
+  display: flex;
+  gap: 20px;
+}
+
+.date-group div {
+  flex: 1;
+}
+
+.continue-btn {
+  background-color: #3498db;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+}
