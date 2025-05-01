@@ -1,0 +1,363 @@
+{
+    "tours": [
+      {
+        "id": 1,
+        "destination": "Tháp Nghinh Phong | Gành Đá Đĩa | Vịnh Vũng Rô",
+        "image": "/assets/uploads/locations/1/1-exp-3.jpg",
+        "departureFrom": "Hồ Chí Minh",
+        "duration": "3 ngày 3 đêm",
+        "tourType": "Tour khách lẻ",
+        "description": "Khám phá vẻ đẹp kỳ vĩ của Phú Yên với tour hấp dẫn đến Tháp Nghinh Phong, Gành Đá Đĩa và Vịnh Vũng Rô. Tận hưởng không gian yên bình, gần gũi với thiên nhiên.",
+        "highlights": [
+          "Chiêm ngưỡng Tháp Nghinh Phong - biểu tượng của thành phố Tuy Hòa",
+          "Khám phá Gành Đá Đĩa - kỳ quan địa chất độc đáo",
+          "Thưởng ngoạn vẻ đẹp hoang sơ của Vịnh Vũng Rô",
+          "Thưởng thức hải sản tươi ngon đặc trưng vùng biển Phú Yên"
+        ],
+        "schedule": [
+          {
+            "day": "Ngày 1",
+            "title": "TP.HCM - TUY HÒA - THÁP NGHINH PHONG",
+            "activities": [
+              "05:00: Xe và HDV đón khách tại điểm hẹn, khởi hành đi Phú Yên",
+              "12:00: Đến Tuy Hòa, dùng cơm trưa tại nhà hàng địa phương",
+              "14:00: Tham quan Tháp Nghinh Phong - ngắm toàn cảnh thành phố",
+              "17:00: Nhận phòng khách sạn, nghỉ ngơi",
+              "18:30: Dùng bữa tối, tự do khám phá thành phố Tuy Hòa về đêm"
+            ]
+          },
+          {
+            "day": "Ngày 2",
+            "title": "GÀNH ĐÁ ĐĨA - BÃI XẾP",
+            "activities": [
+              "06:00: Dùng bữa sáng tại khách sạn",
+              "07:30: Khởi hành đi Gành Đá Đĩa - thắng cảnh địa chất nổi tiếng",
+              "11:30: Dùng bữa trưa tại nhà hàng địa phương",
+              "14:00: Tham quan, tắm biển tại Bãi Xếp (bối cảnh phim 'Tôi thấy hoa vàng trên cỏ xanh')",
+              "17:00: Trở về khách sạn nghỉ ngơi",
+              "18:30: Dùng bữa tối với hải sản địa phương"
+            ]
+          },
+          {
+            "day": "Ngày 3",
+            "title": "VỊNH VŨNG RÔ - TP.HCM",
+            "activities": [
+              "06:30: Dùng bữa sáng, trả phòng khách sạn",
+              "08:00: Tham quan Vịnh Vũng Rô - vịnh biển đẹp bậc nhất Việt Nam",
+              "11:30: Dùng bữa trưa, nghỉ ngơi",
+              "13:00: Khởi hành về TP.HCM",
+              "21:00: Về đến TP.HCM, kết thúc chương trình tour"
+            ]
+          }
+        ],
+        "includes": [
+          "Xe du lịch đời mới máy lạnh suốt tuyến",
+          "Khách sạn tiêu chuẩn 3 sao (2 người/phòng)",
+          "Các bữa ăn theo chương trình",
+          "Hướng dẫn viên nhiệt tình, kinh nghiệm",
+          "Vé tham quan các điểm theo lịch trình",
+          "Bảo hiểm du lịch (mức đền bù tối đa 30 triệu đồng/người/vụ)"
+        ],
+        "excludes": [
+          "Chi phí cá nhân, đồ uống",
+          "Các chi phí không được đề cập trong mục bao gồm",
+          "Tiền tip cho hướng dẫn viên và tài xế"
+        ]
+      },
+      {
+        "id": 2,
+        "destination": "Gành Đá Đĩa | Vịnh Vũng Rô | Bãi Xếp",
+        "image": "/assets/uploads/locations/2/2-exp-3.jpg",
+        "departureFrom": "Hồ Chí Minh",
+        "duration": "4 ngày 3 đêm",
+        "tourType": "Tour khách lẻ",
+        "description": "Hành trình khám phá trọn vẹn vẻ đẹp của Phú Yên với điểm đến nổi tiếng: Gành Đá Đĩa, Vịnh Vũng Rô và Bãi Xếp. Tận hưởng kỳ nghỉ đáng nhớ giữa thiên nhiên hoang sơ.",
+        "highlights": [
+          "Tham quan Gành Đá Đĩa - di sản địa chất độc đáo",
+          "Trải nghiệm du thuyền khám phá Vịnh Vũng Rô",
+          "Tắm biển tại Bãi Xếp - bãi biển đẹp nhất Phú Yên",
+          "Thưởng thức ẩm thực đặc sản Phú Yên"
+        ],
+        "schedule": [
+          {
+            "day": "Ngày 1",
+            "title": "TP.HCM - TUY HÒA",
+            "activities": [
+              "05:00: Xe và HDV đón khách tại điểm hẹn, khởi hành đi Phú Yên",
+              "12:00: Đến Tuy Hòa, dùng cơm trưa",
+              "14:00: Nhận phòng khách sạn, nghỉ ngơi",
+              "16:00: Tham quan Quảng trường 1/4, Nhà thờ Mằng Lăng",
+              "18:30: Dùng bữa tối, tự do khám phá thành phố"
+            ]
+          },
+          {
+            "day": "Ngày 2",
+            "title": "GÀNH ĐÁ ĐĨA - MŨI ĐIỆN",
+            "activities": [
+              "06:00: Dùng bữa sáng tại khách sạn",
+              "07:30: Tham quan Gành Đá Đĩa - thắng cảnh độc đáo của Phú Yên",
+              "11:30: Dùng bữa trưa",
+              "14:00: Tham quan Mũi Điện - điểm đón ánh bình minh đầu tiên của Việt Nam",
+              "17:00: Trở về khách sạn, nghỉ ngơi",
+              "18:30: Dùng bữa tối với hải sản địa phương"
+            ]
+          },
+          {
+            "day": "Ngày 3",
+            "title": "VỊNH VŨNG RÔ - BÃI XẾP",
+            "activities": [
+              "06:30: Dùng bữa sáng tại khách sạn",
+              "08:00: Khởi hành đi Vịnh Vũng Rô, tham gia tour thuyền ngắm vịnh",
+              "11:30: Dùng bữa trưa tại nhà hàng ven biển",
+              "14:00: Tham quan, tắm biển tại Bãi Xếp",
+              "17:00: Trở về khách sạn nghỉ ngơi",
+              "18:30: Dùng bữa tối, tự do khám phá thành phố về đêm"
+            ]
+          },
+          {
+            "day": "Ngày 4",
+            "title": "TUY HÒA - TP.HCM",
+            "activities": [
+              "06:30: Dùng bữa sáng, trả phòng khách sạn",
+              "08:00: Tham quan chợ Tuy Hòa, mua đặc sản địa phương",
+              "11:00: Dùng bữa trưa, nghỉ ngơi",
+              "12:30: Khởi hành về TP.HCM",
+              "20:30: Về đến TP.HCM, kết thúc chương trình tour"
+            ]
+          }
+        ],
+        "includes": [
+          "Xe du lịch đời mới máy lạnh suốt tuyến",
+          "Khách sạn tiêu chuẩn 3 sao (2 người/phòng)",
+          "Các bữa ăn theo chương trình",
+          "Hướng dẫn viên nhiệt tình, kinh nghiệm",
+          "Vé tham quan các điểm theo lịch trình",
+          "Tour thuyền Vịnh Vũng Rô",
+          "Bảo hiểm du lịch (mức đền bù tối đa 30 triệu đồng/người/vụ)"
+        ],
+        "excludes": [
+          "Chi phí cá nhân, đồ uống",
+          "Các chi phí không được đề cập trong mục bao gồm",
+          "Tiền tip cho hướng dẫn viên và tài xế"
+        ]
+      },
+      {
+        "id": 3,
+        "destination": "Vịnh Vũng Rô | Tháp Nhạn | Hòn Yến",
+        "image": "/assets/uploads/locations/3/3-exp-2.jpg",
+        "departureFrom": "Hồ Chí Minh",
+        "duration": "3 ngày 3 đêm",
+        "tourType": "Tour khách lẻ",
+        "description": "Khám phá vẻ đẹp hoang sơ của Phú Yên với hành trình trải nghiệm thiên nhiên và văn hóa đặc sắc tại Vịnh Vũng Rô, Tháp Nhạn và Hòn Yến.",
+        "highlights": [
+          "Chiêm ngưỡng vẻ đẹp hoang sơ của Vịnh Vũng Rô",
+          "Tìm hiểu văn hóa Chăm qua kiến trúc Tháp Nhạn cổ kính",
+          "Trải nghiệm con đường rạn san hô độc đáo tại Hòn Yến",
+          "Thưởng thức đặc sản Phú Yên với nhiều món hải sản tươi ngon"
+        ],
+        "schedule": [
+          {
+            "day": "Ngày 1",
+            "title": "TP.HCM - PHÚ YÊN - THÁP NHẠN",
+            "activities": [
+              "05:00: Xe và HDV đón khách tại điểm hẹn, khởi hành đi Phú Yên",
+              "12:00: Đến Tuy Hòa, dùng cơm trưa tại nhà hàng địa phương",
+              "14:00: Tham quan Tháp Nhạn - di tích kiến trúc Chăm Pa cổ kính",
+              "16:30: Nhận phòng khách sạn, nghỉ ngơi",
+              "18:30: Dùng bữa tối, tự do khám phá thành phố Tuy Hòa về đêm"
+            ]
+          },
+          {
+            "day": "Ngày 2",
+            "title": "VỊNH VŨNG RÔ - ĐẦM Ô LOAN",
+            "activities": [
+              "06:00: Dùng bữa sáng tại khách sạn",
+              "07:30: Khởi hành đi Vịnh Vũng Rô, tham quan và tắm biển",
+              "11:30: Dùng bữa trưa với hải sản tươi ngon",
+              "14:00: Tham quan Đầm Ô Loan, thưởng thức sò huyết",
+              "17:00: Trở về khách sạn nghỉ ngơi",
+              "18:30: Dùng bữa tối, tự do khám phá thành phố"
+            ]
+          },
+          {
+            "day": "Ngày 3",
+            "title": "HÒN YẾN - TP.HCM",
+            "activities": [
+              "05:30: Dùng bữa sáng sớm, trả phòng khách sạn",
+              "06:30: Di chuyển đến Hòn Yến - tham quan con đường rạn san hô kỳ vĩ (phụ thuộc vào thủy triều)",
+              "11:00: Dùng bữa trưa, nghỉ ngơi",
+              "13:00: Khởi hành về TP.HCM",
+              "21:00: Về đến TP.HCM, kết thúc chương trình tour"
+            ]
+          }
+        ],
+        "includes": [
+          "Xe du lịch đời mới máy lạnh suốt tuyến",
+          "Khách sạn tiêu chuẩn 3 sao (2 người/phòng)",
+          "Các bữa ăn theo chương trình",
+          "Hướng dẫn viên nhiệt tình, kinh nghiệm",
+          "Vé tham quan các điểm theo lịch trình",
+          "Bảo hiểm du lịch (mức đền bù tối đa 30 triệu đồng/người/vụ)"
+        ],
+        "excludes": [
+          "Chi phí cá nhân, đồ uống",
+          "Các chi phí không được đề cập trong mục bao gồm",
+          "Tiền tip cho hướng dẫn viên và tài xế"
+        ]
+      },
+      {
+        "id": 4,
+        "destination": "Tháp Nhạn | Nhà Thờ Mằng Lăng | Tháp Nghinh Phong",
+        "image": "/assets/uploads/locations/4/4-arch.jpg",
+        "departureFrom": "Hồ Chí Minh",
+        "duration": "2 ngày 1 đêm",
+        "tourType": "Tour khách lẻ",
+        "description": "Hành trình ngắn nhưng đầy trải nghiệm với những địa điểm văn hóa - lịch sử nổi tiếng của Phú Yên: Tháp Nhạn, Nhà Thờ Mằng Lăng và Tháp Nghinh Phong.",
+        "highlights": [
+          "Khám phá Tháp Nhạn - di tích kiến trúc cổ lâu đời",
+          "Tham quan Nhà Thờ Mằng Lăng - nơi lưu giữ cuốn sách quốc ngữ đầu tiên",
+          "Chiêm ngưỡng Tháp Nghinh Phong với kiến trúc độc đáo",
+          "Thưởng thức ẩm thực đặc trưng của vùng đất Phú Yên"
+        ],
+        "schedule": [
+          {
+            "day": "Ngày 1",
+            "title": "TP.HCM - TUY HÒA - THÁP NHẠN - THÁP NGHINH PHONG",
+            "activities": [
+              "05:00: Xe và HDV đón khách tại điểm hẹn, khởi hành đi Phú Yên",
+              "12:00: Đến Tuy Hòa, dùng cơm trưa",
+              "14:00: Tham quan Tháp Nhạn - công trình kiến trúc Chăm Pa cổ",
+              "16:00: Tham quan Tháp Nghinh Phong - biểu tượng của thành phố Tuy Hòa",
+              "17:30: Nhận phòng khách sạn, nghỉ ngơi",
+              "18:30: Dùng bữa tối, tự do khám phá thành phố về đêm"
+            ]
+          },
+          {
+            "day": "Ngày 2",
+            "title": "NHÀ THỜ MẰNG LĂNG - TP.HCM",
+            "activities": [
+              "06:00: Dùng bữa sáng, trả phòng khách sạn",
+              "07:30: Tham quan Nhà Thờ Mằng Lăng - nhà thờ cổ nổi tiếng",
+              "10:30: Dùng bữa trưa",
+              "12:00: Khởi hành về TP.HCM",
+              "20:00: Về đến TP.HCM, kết thúc chương trình tour"
+            ]
+          }
+        ],
+        "includes": [
+          "Xe du lịch đời mới máy lạnh suốt tuyến",
+          "Khách sạn tiêu chuẩn 3 sao (2 người/phòng)",
+          "Các bữa ăn theo chương trình",
+          "Hướng dẫn viên nhiệt tình, kinh nghiệm",
+          "Vé tham quan các điểm theo lịch trình",
+          "Bảo hiểm du lịch (mức đền bù tối đa 30 triệu đồng/người/vụ)"
+        ],
+        "excludes": [
+          "Chi phí cá nhân, đồ uống",
+          "Các chi phí không được đề cập trong mục bao gồm",
+          "Tiền tip cho hướng dẫn viên và tài xế"
+        ]
+      },
+      {
+        "id": 5,
+        "destination": "Bãi Xếp | Gành Đá Đĩa | Vịnh Vũng Rô",
+        "image": "/assets/uploads/locations/5/5-exp-3.jpg",
+        "departureFrom": "Tp Hồ Chí Minh",
+        "duration": "2 ngày 1 đêm",
+        "tourType": "Tour khách lẻ",
+        "description": "Tour du lịch nhanh gọn đến những điểm đẹp nhất của Phú Yên như Bãi Xếp, Gành Đá Đĩa và Vịnh Vũng Rô. Phù hợp cho những ai muốn tận hưởng thiên nhiên biển xanh chỉ trong 2 ngày.",
+        "highlights": [
+          "Tắm biển tại Bãi Xếp - cảnh đẹp trong phim 'Tôi thấy hoa vàng trên cỏ xanh'",
+          "Khám phá Gành Đá Đĩa với cấu trúc đá tự nhiên độc đáo",
+          "Tham quan Vịnh Vũng Rô - thiên đường biển yên bình"
+        ],
+        "schedule": [
+          {
+            "day": "Ngày 1",
+            "title": "TP.HCM - TUY HÒA - GÀNH ĐÁ ĐĨA - BÃI XẾP",
+            "activities": [
+              "04:30: Khởi hành từ TP.HCM đi Phú Yên",
+              "11:30: Dùng bữa trưa tại nhà hàng địa phương",
+              "14:00: Tham quan Gành Đá Đĩa",
+              "15:30: Tắm biển, chụp ảnh tại Bãi Xếp",
+              "18:00: Nhận phòng khách sạn, nghỉ ngơi và ăn tối"
+            ]
+          },
+          {
+            "day": "Ngày 2",
+            "title": "VỊNH VŨNG RÔ - TP.HCM",
+            "activities": [
+              "06:00: Ăn sáng và trả phòng",
+              "07:00: Tham quan Vịnh Vũng Rô, chụp ảnh lưu niệm",
+              "11:30: Dùng bữa trưa",
+              "12:30: Khởi hành về TP.HCM",
+              "20:30: Về đến TP.HCM, kết thúc chương trình"
+            ]
+          }
+        ],
+        "includes": [
+          "Xe giường nằm cao cấp khứ hồi",
+          "1 đêm khách sạn tiêu chuẩn",
+          "Các bữa ăn theo chương trình",
+          "Vé tham quan",
+          "Hướng dẫn viên",
+          "Bảo hiểm du lịch"
+        ],
+        "excludes": [
+          "Chi phí cá nhân",
+          "Nước uống ngoài chương trình",
+          "Tiền tip cho HDV"
+        ]
+      },
+      {
+        "id": 6,
+        "destination": "Hòn Yến | Bãi Xếp | Gành Đá Đĩa",
+        "image": "/assets/uploads/locations/6/4.jpg",
+        "departureFrom": "Tp Hồ Chí Minh",
+        "duration": "2 ngày 1 đêm",
+        "tourType": "Tour khách lẻ",
+        "description": "Khám phá trọn vẹn vẻ đẹp tự nhiên và kỳ bí của Phú Yên với hành trình đến Hòn Yến, Bãi Xếp và Gành Đá Đĩa trong 2 ngày thú vị.",
+        "highlights": [
+          "Chiêm ngưỡng rạn san hô tại Hòn Yến khi thủy triều rút",
+          "Tắm biển, dạo chơi tại Bãi Xếp",
+          "Check-in Gành Đá Đĩa với cảnh sắc hùng vĩ"
+        ],
+        "schedule": [
+          {
+            "day": "Ngày 1",
+            "title": "TP.HCM - PHÚ YÊN - HÒN YẾN - BÃI XẾP",
+            "activities": [
+              "04:00: Khởi hành đi Phú Yên",
+              "11:00: Ăn trưa và nghỉ ngơi",
+              "13:00: Tham quan Hòn Yến",
+              "15:30: Tắm biển tại Bãi Xếp",
+              "18:00: Nhận phòng, ăn tối, tự do khám phá"
+            ]
+          },
+          {
+            "day": "Ngày 2",
+            "title": "GÀNH ĐÁ ĐĨA - TP.HCM",
+            "activities": [
+              "06:30: Ăn sáng, trả phòng",
+              "07:30: Khám phá Gành Đá Đĩa",
+              "11:30: Ăn trưa, nghỉ ngơi",
+              "13:00: Khởi hành về TP.HCM",
+              "20:00: Kết thúc chương trình"
+            ]
+          }
+        ],
+        "includes": [
+          "Xe du lịch máy lạnh",
+          "Khách sạn tiêu chuẩn",
+          "Vé tham quan",
+          "Hướng dẫn viên",
+          "Bảo hiểm du lịch"
+        ],
+        "excludes": [
+          "Chi phí cá nhân",
+          "Nước uống ngoài chương trình",
+          "Tip cho tài xế và HDV"
+        ]
+      }
+    ]
+  }
